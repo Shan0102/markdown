@@ -102,4 +102,4 @@ this is [my profile](https://github.com/Shan0102/markdown)
 
 ### html
 
-<p style='color: green'>you can use styles</p>
+<p style='color: Green'>you can use styles</p>
